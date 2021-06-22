@@ -1,0 +1,17 @@
+For navigation and manipulation of text. 
+This is the mode that vim will usually start in, 
+which you can usually get back to with ESC.
+:help Normal-mode
+
+
+For inserting new text. The main difference from vi is that many important "normal" commands are also available in insert mode - provided you have a keyboard with enough meta keys (such as Ctrl, Alt, Windows-key, etc.)
+:help Insert-mode
+
+For navigation and manipulation of text selections, this mode allows you to perform most normal commands, and a few extra commands, on selected text
+:help Visual-mode
+
+For entering editor commands - like the help commands in the third column.
+:help Command-line-mode
+
+
+
